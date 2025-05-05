@@ -3,7 +3,7 @@ Public Repository for DSCI 478 Final Project: The Traveling Skier Problem
 
 ## Authors: 
 
-D'Andre Tafoya, Jillian Cook, Lauren Bair
+D'Andre Tafoya, Jillian Cook, Lauren Bair, Garrett Hayden
 
 ## Project Description:
 
