@@ -33,15 +33,16 @@ Ono, Daryl, Jose Rincón, and Althea Thomas. “A Criteria-Based Approach to the
 
 ### Other Sources
 
-“Common Routing Tasks  |  Or-Tools  |  Google for Developers.” Google, Google, developers.google.com/optimization/routing/routing_tasks
+“Common Routing Tasks  |  Or-Tools  |  Google for Developers.” Google, Google, https://developers.google.com/optimization/routing/routing_tasks
 
-“Getting Started!” FlightAPI, FlightAPI, docs.flightapi.io
+“Getting Started!” FlightAPI, FlightAPI, https://docs.flightapi.io/
 
-“Held–Karp Algorithm.” Rosetta Code, 13 April 2025, rosettacode.org/wiki/Held%E2%80%93Karp_algorithm
-Liang, David. “Intro - Python Algorithms: Traveling Salesman Problem.” Medium, Medium, 19 July 2024, medium.com/@davidlfliang/intro-python-algorithms-traveling-salesman-problem-ffa61f0bd47b.
+“Held–Karp Algorithm.” Rosetta Code, 13 April 2025, https://rosettacode.org/wiki/Held%E2%80%93Karp_algorithm
 
-Prewitt, Nate, and Seth M Larson. “HTTP for HumansTM¶.” Requests, requests.readthedocs.io/en/latest/
+Liang, David. “Intro - Python Algorithms: Traveling Salesman Problem.” Medium, Medium, 19 July 2024, https://medium.com/@davidlfliang/intro-python-algorithms-traveling-salesman-problem-ffa61f0bd47b
 
-“The Directions API Demo.” Google, Google, developers.google.com/maps/documentation/directions/start
+Prewitt, Nate, and Seth M Larson. “HTTP for HumansTM¶.” Requests, https://requests.readthedocs.io/en/latest/
+
+“The Directions API Demo.” Google, Google, https://developers.google.com/maps/documentation/directions/start
 
 “What is an API (Application Programming Interface)?” Amazon Web Services, Amazon Web Services, Inc., https://aws.amazon.com/what-is/api/
