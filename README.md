@@ -20,3 +20,28 @@ Multimodal_Travel_Planner.ipynb - This file extends the cost_optimization.ipynb 
 OpenTSP_paths.ipynb - This file provides another look at the TSP, but without the constraint of being required to start and end at the same location. We wanted to explore a more realistic cost model based on the competition, where winning the competition only took reaching the last resort (not the return trip home), and an Open TSP approach provided that.
 
 paths.ipynb - This file has the base path of the optimized TSP entirely dependent on distance, not cost. This provided a baseline as to how different methods would be used when introducing prices of travel into the problem.
+
+## Sources
+
+### Scholarly Journals
+
+Lian, Kai Q., and Gareth A. Tribello. “An Elementary Approach to the Vehicle Routing Problem via   Python and Google API.” American Journal of Operations Research, vol. 14, no. 6, 29 Nov. 2024, Art. no. 146009, https://doi.org/10.4236/ajor.2024.146009
+
+Maria, Eny, et al. “Measure Distance Locating Nearest Public Facilities Using Haversine and Euclidean Methods.” Journal of Physics: Conference Series, vol. 1450, no. 1, Feb. 2020, Art. no. 012080, https://doi.org/10.1088/1742-6596/1450/1/012080.
+
+Ono, Daryl, Jose Rincón, and Althea Thomas. “A Criteria-Based Approach to the Traveling Salesman Problem (TSP).” Western Decision Science Journal, 2020. LMU Digital Commons, https://digitalcommons.lmu.edu/librarian_pubs/143
+
+### Other Sources
+
+“Common Routing Tasks  |  Or-Tools  |  Google for Developers.” Google, Google, developers.google.com/optimization/routing/routing_tasks
+
+“Getting Started!” FlightAPI, FlightAPI, docs.flightapi.io
+
+“Held–Karp Algorithm.” Rosetta Code, 13 April 2025, rosettacode.org/wiki/Held%E2%80%93Karp_algorithm
+Liang, David. “Intro - Python Algorithms: Traveling Salesman Problem.” Medium, Medium, 19 July 2024, medium.com/@davidlfliang/intro-python-algorithms-traveling-salesman-problem-ffa61f0bd47b.
+
+Prewitt, Nate, and Seth M Larson. “HTTP for HumansTM¶.” Requests, requests.readthedocs.io/en/latest/
+
+“The Directions API Demo.” Google, Google, developers.google.com/maps/documentation/directions/start
+
+“What is an API (Application Programming Interface)?” Amazon Web Services, Amazon Web Services, Inc., https://aws.amazon.com/what-is/api/
