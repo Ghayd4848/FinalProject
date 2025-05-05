@@ -11,11 +11,11 @@ This repository encompasses the entirety of our code for the DSCI 478 capstone f
 
 ## File Structure:
 
-cost_optimization.ipynb - 
+cost_optimization.ipynb - This file contains the main multi-modal TSP planner which uses both APIs and finds the optimal route, optimal cost, and provides a trip summary. It pulls real-world driving distances and flight fares and compares the cost of driving vs. flying for every leg.
 
 cost_paths.ipynb - This file holds the base TSP model and basic cost optimization methods including the Held-Karp and OR-Tools methods utilizing a fixed cost model.
 
-Multimodal_Travel_Planner.ipynb -
+Multimodal_Travel_Planner.ipynb - This file extends the cost_optimization.ipynb file by taking the optimal TSP route and creating a full multi-modal itinerary by establishing driving vs. flying rules, calculating costs and distances, and printing the itinerary. It also includes an annotated map that shows the airports and resorts used in the calculation, as well as the route taken.
 
 OpenTSP_paths.ipynb - This file provides another look at the TSP, but without the constraint of being required to start and end at the same location. We wanted to explore a more realistic cost model based on the competition, where winning the competition only took reaching the last resort (not the return trip home), and an Open TSP approach provided that.
 
