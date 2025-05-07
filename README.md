@@ -35,6 +35,8 @@ Ono, Daryl, Jose Rincón, and Althea Thomas. “A Criteria-Based Approach to the
 
 “Common Routing Tasks  |  Or-Tools  |  Google for Developers.” Google, Google, https://developers.google.com/optimization/routing/routing_tasks
 
+Custer, Charlie. “How to Use an API in Python.” Dataquest, 25 Mar. 2025, https://www.dataquest.io/blog/api-in-python/
+
 “Getting Started!” FlightAPI, FlightAPI, https://docs.flightapi.io/
 
 “Held–Karp Algorithm.” Rosetta Code, 13 April 2025, https://rosettacode.org/wiki/Held%E2%80%93Karp_algorithm
@@ -44,5 +46,9 @@ Liang, David. “Intro - Python Algorithms: Traveling Salesman Problem.” M
 Prewitt, Nate, and Seth M Larson. “HTTP for HumansTM¶.” Requests, https://requests.readthedocs.io/en/latest/
 
 “The Directions API Demo.” Google, Google, https://developers.google.com/maps/documentation/directions/start
+
+“Travelling Salesman Problem Using Dynamic Programming.” GeeksforGeeks, GeeksforGeeks, 26 Nov. 2024, https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/
+
+“Traveling Salesperson Problem  |  OR-Tools  |  Google for Developers.” Google, Google, https://developers.google.com/optimization/routing/tsp
 
 “What is an API (Application Programming Interface)?” Amazon Web Services, Amazon Web Services, Inc., https://aws.amazon.com/what-is/api/
